@@ -5,6 +5,6 @@ import "fmt"
 
 func Third() {
 	fmt.Printf("Third. Imported first\n")
-	pack.DoNothing()
+	pack.DoNothingg()
 	fmt.Printf("Here should be first\n")
 }
